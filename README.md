@@ -1,4 +1,5 @@
-A collection of shaders I've been working on that are by no means efficent or physically plausible just fun.
+
+#A collection of shaders I've been working on that are by no means efficent or physically plausible just fun.
 1) Toon/Noise Surface Shader <br>
   Fully customizable opaque shader where you control base and shadow color aswell as specify the amount of shadow/midtones. I need to update the gui for this one lol. 
   ![demo image of toon shader](textures/demoimages/demooo.jpg)
