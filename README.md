@@ -5,5 +5,5 @@
   ![demo image of toon shader](textures/demoimages/demooo.jpg)
 ##
 3) Pixelated Ascii Prost-Processing Shader <br>
-   in properities you can set the screen size parameter to increase/decrease the affect. In addition, there is a depth threshold controlling where to would start rendering the luminance. I still need to work on this one because I cannot get the edge detection to work!!
+   in properties you can set the screen size parameter to increase/decrease the affect. In addition, there is a depth threshold controlling where to would start rendering the luminance. I still need to work on this one because I cannot get the edge detection to work!!
    ![demo image of pixelated ascii shader](textures/demoimages/postprocessshader.jpg)
